@@ -1,0 +1,7 @@
+filename	acq_time	task_name	filename_calibration_file	treadmill_speed_pref	treadmill_speed_overground
+motion/sub-pp001_task-walkFast_tracksys-imu_motion.tsv	1942-02-19T00:33:26.573755	walkFast	/motion/sub-pp001_task-calibration4_tracksys-imu_motion.tsv	n/a	n/a
+motion/sub-pp001_task-walkFast_tracksys-omc_motion.tsv	1942-02-19T00:33:26.573755	walkFast	/motion/sub-pp001_task-calibration4_tracksys-omc_motion.tsv	n/a	n/a
+motion/sub-pp001_task-walkPreferred_tracksys-omc_motion.tsv	1910-08-21T09:21:04.325491	walkPreferred	/motion/sub-pp001_task-calibration4_tracksys-omc_motion.tsv	n/a	n/a
+motion/sub-pp001_task-walkPreferred_tracksys-imu_motion.tsv	1910-08-21T09:21:04.325491	walkPreferred	/motion/sub-pp001_task-calibration4_tracksys-imu_motion.tsv	n/a	n/a
+motion/sub-pp001_task-walkSlow_tracksys-omc_motion.tsv	1948-10-29T21:28:46.762035	walkSlow	/motion/sub-pp001_task-calibration4_tracksys-omc_motion.tsv	n/a	n/a
+motion/sub-pp001_task-walkSlow_tracksys-imu_motion.tsv	1948-10-29T21:28:46.762035	walkSlow	/motion/sub-pp001_task-calibration4_tracksys-imu_motion.tsv	n/a	n/a

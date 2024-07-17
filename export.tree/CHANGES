@@ -1,9 +1,0 @@
-1.0.3 2024-07-17
-  - Add sampling_frequency column in channels.tsv file
-  - Align header names in the motion.tsv files with rownames in the channels.tsv files
-1.0.2 2024-06-26
-  - Update dataset with relevant tasks and scnas.tsv files
-1.0.1 2024-06-26
-  - Update dataset with relevant tasks and scnas.tsv files
-1.0.0 2024-06-17
-  - Initial upload
